@@ -1,0 +1,23 @@
+﻿  Camera.cpp
+f:\2\g2\submission\source\directxframework\graphics2\camera.cpp(90): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DDSTextureLoader.cpp
+f:\2\g2\submission\source\directxframework\graphics2\ddstextureloader.cpp(1828): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Framework.cpp
+f:\2\g2\submission\source\directxframework\graphics2\framework.cpp(230): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DirectXFramework.cpp
+f:\2\g2\submission\source\directxframework\graphics2\directxframework.cpp(213): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Graphics2.cpp
+f:\2\g2\submission\source\directxframework\graphics2\graphics2.cpp(49): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Mesh.cpp
+f:\2\g2\submission\source\directxframework\graphics2\mesh.cpp(60): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MeshNode.cpp
+f:\2\g2\submission\source\directxframework\graphics2\meshnode.cpp(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MeshRenderer.cpp
+f:\2\g2\submission\source\directxframework\graphics2\meshrenderer.cpp(173): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ResourceManager.cpp
+f:\2\g2\submission\source\directxframework\graphics2\resourcemanager.cpp(452): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SceneGraph.cpp
+f:\2\g2\submission\source\directxframework\graphics2\scenegraph.cpp(68): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TerrainNode.cpp
+f:\2\g2\submission\source\directxframework\graphics2\terrainnode.cpp(353): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

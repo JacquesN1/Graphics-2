@@ -1,0 +1,29 @@
+﻿  Camera.cpp
+  DDSTextureLoader.cpp
+  Framework.cpp
+  DirectXFramework.cpp
+  Graphics2.cpp
+  Mesh.cpp
+  MeshNode.cpp
+  MeshRenderer.cpp
+  ResourceManager.cpp
+  SceneGraph.cpp
+  TerrainNode.cpp
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(145): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(148): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(166): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(167): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(308): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\2\g2\backup\2\directxframework\graphics2\terrainnode.cpp(322): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+f:\2\g2\backup\2\directxframework\graphics2\scenegraph.cpp(33): warning C4715: 'SceneGraph::Find': not all control paths return a value
+  All 1775 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graphics2.vcxproj -> F:\2\G2\Backup\2\DirectXFramework\x64\Release\Graphics2.exe
+  F:\2\G2\Backup\2\DirectXFramework\Graphics2\zlib.dll
+  F:\2\G2\Backup\2\DirectXFramework\Graphics2\assimp-vc140-mt.dll
+          2 file(s) copied.

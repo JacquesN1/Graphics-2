@@ -1,0 +1,298 @@
+Info,  T13596: Load daedae
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Debug, T13596: Found positive match for header keyword: <collada
+Info,  T13596: Found a matching importer for this file format: Collada Importer.
+Info,  T13596: Import root directory is '.\'
+Debug, T13596: Collada schema version is 1.4.n
+Debug, T13596: ValidateDataStructureProcess begin
+Debug, T13596: ValidateDataStructureProcess end
+Debug, T13596: START `t1`
+Debug, T13596: END   `t1`, dt= 0.0001334 s
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/LWS/move_x.lws
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/LWS/move_x.lws".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/SMD/triangle.smd
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/SMD/triangle.smd".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/SMD/holy_grailref.smd
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/SMD/holy_grailref.smd".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF/TwoBoxes/TwoBoxes.gltf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF/TwoBoxes/TwoBoxes.gltf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF2/BoxTextured-glTF/BoxTextured.gltf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF2/BoxTextured-glTF/BoxTextured.gltf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF2/2CylinderEngine-glTF-Binary/2CylinderEngine.glb
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF2/2CylinderEngine-glTF-Binary/2CylinderEngine.glb".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF2/BoxTextured-glTF/BoxTextured.gltf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/glTF2/BoxTextured-glTF/BoxTextured.gltf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/HMP/terrain.hmp
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/HMP/terrain.hmp".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/IFC/AC14-FZK-Haus.ifc
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/IFC/AC14-FZK-Haus.ifc".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/FBX/spider.fbx
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/FBX/spider.fbx".
+Info,  T13596: Load $$$___magic___$$$.3ds
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: Found a matching importer for this file format: Discreet 3DS Importer.
+Info,  T13596: Import root directory is './'
+Info,  T13596: 3DS file format version: 3
+Warn,  T13596: 3DS: Skipping TCB animation info
+Skipping one or more lines with the same contents
+Error, T13596: 3DS: Skipping FOV animation track. This is not supported
+Warn,  T13596: 3DS: Skipping TCB animation info
+Skipping one or more lines with the same contents
+Info,  T13596: 3DS: Generating default material
+Debug, T13596: 3DS: Converting camera roll track ...
+Debug, T13596: ScenePreprocessor: Dummy scaling track has been generated
+Debug, T13596: ScenePreprocessor: Setting animation duration
+Info,  T13596: Entering post processing pipeline
+Debug, T13596: RemoveRedundantMatsProcess begin
+Debug, T13596: RemoveRedundantMatsProcess finished 
+Debug, T13596: FindDegeneratesProcess begin
+Debug, T13596: FindDegeneratesProcess finished
+Debug, T13596: GenUVCoordsProcess begin
+Debug, T13596: GenUVCoordsProcess finished
+Debug, T13596: TriangulateProcess begin
+Debug, T13596: TriangulateProcess finished. There was nothing to be done.
+Debug, T13596: SortByPTypeProcess begin
+Info,  T13596: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Debug, T13596: SortByPTypeProcess finished
+Debug, T13596: FindInvalidDataProcess begin
+Debug, T13596: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T13596: SplitLargeMeshesProcess_Triangle begin
+Debug, T13596: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+Debug, T13596: Generate spatially-sorted vertex cache
+Debug, T13596: GenVertexNormalsProcess begin
+Debug, T13596: GenVertexNormalsProcess finished. Normals are already there
+Debug, T13596: CalcTangentsProcess begin
+Info,  T13596: CalcTangentsProcess finished. Tangents have been calculated
+Debug, T13596: JoinVerticesProcess begin
+Debug, T13596: Mesh 0 (0) | Verts in: 36 out: 24 | ~33.3333%
+Info,  T13596: JoinVerticesProcess finished | Verts in: 36 out: 24 | ~33.3%
+Debug, T13596: SplitLargeMeshesProcess_Vertex begin
+Debug, T13596: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+Debug, T13596: LimitBoneWeightsProcess begin
+Debug, T13596: LimitBoneWeightsProcess end
+Debug, T13596: ImproveCacheLocalityProcess begin
+Debug, T13596: Mesh 0 | ACMR in: 2.000000 out: 2.000000 | ~0.0%
+Info,  T13596: Cache relevant are 1 meshes (12 faces). Average output ACMR is 2.000000
+Debug, T13596: ImproveCacheLocalityProcess finished. 
+Info,  T13596: Leaving post processing pipeline
+Info,  T13596: Registering custom importer for these file extensions: applelinuxmacwindows
+Info,  T13596: Unregistering custom importer: 
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/test.x
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/test.x".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/Testwuson.X
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/Testwuson.X".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/anim_test.x
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/anim_test.x".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/anim_test.x
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/anim_test.x".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/BCN_Epileptic.X
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/BCN_Epileptic.X".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3D/box_a.3d
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3D/box_a.3d".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3DS/fels.3ds
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3DS/fels.3ds".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/AC/Wuson.ac
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/AC/Wuson.ac".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/AMF/test1.amf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/AMF/test1.amf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/ASE/ThreeCubesGreen.ASE
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/ASE/ThreeCubesGreen.ASE".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3MF/box.3mf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3MF/box.3mf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3MF/box.3mf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/3MF/box.3mf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Q3D/earth.q3o
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Q3D/earth.q3o".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/STL/Spider_ascii.stl
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/STL/Spider_ascii.stl".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/STL/triangle_with_two_solids.stl
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/STL/triangle_with_two_solids.stl".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/test.x
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X/test.x".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X3D/ComputerKeyboard.x3d
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/X3D/ComputerKeyboard.x3d".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/DXF/PinkEggFromLW.dxf
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/DXF/PinkEggFromLW.dxf".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/PLY/cube.ply
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/PLY/cube.ply".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/PLY/cube.ply
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/PLY/cube.ply".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/PLY/float-color.ply
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/PLY/float-color.ply".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OBJ/spider.obj
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OBJ/spider.obj".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OBJ/spider.obj
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OBJ/spider.obj".
+Info,  T13596: Load $$$___magic___$$$.
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: File extension not known, trying signature-based detection
+Debug, T13596: Found positive match for header keyword: usemtl
+Info,  T13596: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T13596: Import root directory is './'
+Error, T13596: OBJ: failed to locate material Default, creating new material
+Info,  T13596: Load $$$___magic___$$$.
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: File extension not known, trying signature-based detection
+Debug, T13596: Found positive match for header keyword: usemtl
+Info,  T13596: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T13596: Import root directory is './'
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OBJ/cube_with_vertexcolors.obj
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OBJ/cube_with_vertexcolors.obj".
+Info,  T13596: Load $$$___magic___$$$.
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: File extension not known, trying signature-based detection
+Debug, T13596: Found positive match for header keyword: v 
+Info,  T13596: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T13596: Import root directory is './'
+Debug, T13596: ValidateDataStructureProcess begin
+Error, T13596: Validation failed: aiScene::mNumMeshes is 0. At least one mesh must be there
+Info,  T13596: Load $$$___magic___$$$.
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: File extension not known, trying signature-based detection
+Debug, T13596: Found positive match for header keyword: v 
+Info,  T13596: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T13596: Import root directory is './'
+Debug, T13596: ValidateDataStructureProcess begin
+Debug, T13596: ValidateDataStructureProcess end
+Info,  T13596: Load $$$___magic___$$$.
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: File extension not known, trying signature-based detection
+Debug, T13596: Found positive match for header keyword: v 
+Info,  T13596: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T13596: Import root directory is './'
+Debug, T13596: ValidateDataStructureProcess begin
+Debug, T13596: ValidateDataStructureProcess end
+Info,  T13596: Load $$$___magic___$$$.
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Info,  T13596: File extension not known, trying signature-based detection
+Debug, T13596: Found positive match for header keyword: v 
+Info,  T13596: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T13596: Import root directory is './'
+Error, T13596: OBJ: Invalid face indice
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OpenGEX/Example.ogex
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OpenGEX/Example.ogex".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OpenGEX/light_issue1262.ogex
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/OpenGEX/light_issue1262.ogex".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/SIB/heffalump.sib
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/SIB/heffalump.sib".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BLEND/AreaLight_269.blend
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BLEND/AreaLight_269.blend".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BLEND/box.blend
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BLEND/box.blend".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BLEND/BlenderMaterial_269.blend
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BLEND/BlenderMaterial_269.blend".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BVH/01_01.bvh
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/BVH/01_01.bvh".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Collada/cameras.dae
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Collada/cameras.dae".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Collada/lights.dae
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Collada/lights.dae".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Collada/duck.dae
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/Collada/duck.dae".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/CSM/ThomasFechten.csm
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/CSM/ThomasFechten.csm".
+Info,  T13596: Load C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/B3D/WusonBlitz.b3d
+Debug, T13596: Assimp 4.1.0 amd64 msvc shared singlethreaded
+Error, T13596: Unable to open file "C:/Assimp/assimp-4.1.0/assimp-4.1.0/test/models/B3D/WusonBlitz.b3d".
+Debug, T13596: RemoveRedundantMatsProcess begin
+Info,  T13596: RemoveRedundantMatsProcess finished. Removed 2 redundant and 0 unused materials.
+Debug, T13596: RemoveRedundantMatsProcess begin
+Debug, T13596: Found positive match in exclusion list: 'Unique Mat2'
+Debug, T13596: Found positive match in exclusion list: 'Complex material name'
+Info,  T13596: RemoveRedundantMatsProcess finished. Removed 1 redundant and 0 unused materials.
+Debug, T13596: RemoveVCProcess begin
+Debug, T13596: Setting AI_SCENE_FLAGS_INCOMPLETE flag
+Debug, T13596: RemoveVCProcess finished. Nothing to be done ...
+Debug, T13596: Mesh 0 (unnamed) | Verts in: 900 out: 300 | ~66.6667%
+Debug, T13596: RemoveVCProcess begin
+Debug, T13596: Setting AI_SCENE_FLAGS_INCOMPLETE flag
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T13596: RemoveVCProcess begin
+Debug, T13596: Setting AI_SCENE_FLAGS_INCOMPLETE flag
+Info,  T13596: RemoveVCProcess finished. Data structure cleanup has been done.
+Info,  T13596: Mesh exceeds the triangle limit. It will be split ...
+Warn,  T13596: Found 300 degenerated primitives
+Skipping one or more lines with the same contents
+Warn,  T13596: Found 200 degenerated primitives
+Error, T13596: FindInvalidDataProcess fails on mesh uvcoords: INF/NAN was found in a vector component
+Error, T13596: FindInvalidDataProcess fails on mesh normals: Found zero-length vector
+Error, T13596: FindInvalidDataProcess fails on mesh bitangents: All vectors are identical
+Info,  T13596: Removed 5500 weights. Input bones: 30. Output bones: 8
+Debug, T13596: PretransformVerticesProcess begin
+Debug, T13596: PretransformVerticesProcess finished
+Info,  T13596: Removed 31 nodes and 0 animation channels (11 output nodes)
+Info,  T13596: Kept 0 lights and 0 cameras
+Info,  T13596: Moved 25 meshes to WCS (number of output meshes: 10)
+Debug, T13596: PretransformVerticesProcess begin
+Info,  T13596: PretransformVertices: Copying mesh due to mismatching transforms
+Skipping one or more lines with the same contents
+Debug, T13596: PretransformVerticesProcess finished
+Info,  T13596: Removed 31 nodes and 0 animation channels (31 output nodes)
+Info,  T13596: Kept 0 lights and 0 cameras
+Info,  T13596: Moved 25 meshes to WCS (number of output meshes: 49)
+Debug, T13596: ScenePreprocessor: Dummy rotation track has been generated
+Debug, T13596: ScenePreprocessor: Dummy position track has been generated
+Debug, T13596: ScenePreprocessor: Setting animation duration
+Debug, T13596: ScenePreprocessor: Adding default material 'DefaultMaterial'
+Debug, T13596: SortByPTypeProcess begin
+Info,  T13596: Points: 5, Lines: 6, Triangles: 5, Polygons: 5 (Meshes, X = removed)
+Debug, T13596: SortByPTypeProcess finished
